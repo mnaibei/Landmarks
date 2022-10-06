@@ -1,0 +1,262 @@
+[
+    {
+        "name": "Nairobi National Park",
+        "category": "Parks",
+        "city": "Nairobi",
+        "country": "Kenya",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "site": "Nairobi National Park",
+        "coordinates": {
+            "longitude": 36.834583,
+            "latitude": -1.362863
+        },
+        "description": "The World’s only Wildlife Capital. A short drive out of Nairobi’s central business district is the Nairobi National Park. Wide open grass plains and backdrop of the city scrapers, scattered acacia bush play host to a wide variety of wildlife including the endangered black rhino, lions, leopards, cheetahs, hyenas, buffaloes, giraffes and diverse birdlife with over 400 species recorded.",
+        "imageName": "Nairobi-National-Park-700x450"
+    },
+    {
+        "name": "KICC",
+        "category": "Buildings",
+        "city": "Nairobi",
+        "country": "Kenya",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "KICC",
+        "coordinates": {
+            "longitude": 36.822780,
+            "latitude": -1.288352
+        },
+        "description": "The Kenyatta International Convention Centre is an icon and landmark for Kenya. KICC boasts of being the leading facility in the meetings industry in East Africa and has held quite a number of regional and international conferences like the World Bank Conference in 1973, Inter-parliamentary Union summit in 2008, other UN based conferences, 8th African Growth and Opportunity Act (AGOA), 7th Global Conference on health, the 5th Pan African Malaria conference, Internet Corporation for Assigned Names and Numbers (ICANN) Congress & the 2010 International Federation of Biomedical Laboratory Scientists (IFBLS), 10th WTO Meeting, TICAD VI, 2nd High Level Meeting on GPEDC among others.",
+        "imageName": "kicc"
+    },
+    {
+        "name": "Maasai Mara",
+        "category": "Parks",
+        "city": "Narok",
+        "country": "Kenya",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "site": "Maasai Mara National Reserve",
+        "coordinates": {
+            "longitude": 35.113444,
+            "latitude": -1.477072
+        },
+        "description": "This is a diverse landscape harboring varied habitats within its majestic plains, rocky outcrops, ancient woodland and life-giving rivers. It adjoins the northern sweep of neighbouring Tanzania’s Serengeti plains thus forming one huge ecosystem.",
+        "imageName": "maasaimara"
+    },
+    {
+        "name": "Ol Pejeta Conservancy",
+        "category": "Conservancy",
+        "city": "Nanyuki",
+        "country": "Kenya",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "site": "Ol Pejeta Conservancy",
+        "coordinates": {
+            "longitude": 36.964231,
+            "latitude": -0.004077
+        },
+        "description": "Ol Pejeta Conservancy is a 364sq km wildlife conservancy situated between the foothills of Mount Kenya and the Aberdares and its game-to-area ratio tops the Kenyan park and reserve league. The Ol Pejeta Conservancy in Kenya has over 10000 large mammals and it is the only park where the big 5 and chimpanzees can be seen. It is also where the fastest growing population of rhino in Africa can be found. There are southern white rhino, about 80 endangered black rhino and in a special sanctuary there are two of the world’s last remaining northern white rhino.",
+        "imageName": "olpejeta"
+    },
+    {
+        "name": "Lake Nakuru",
+        "category": "Lakes",
+        "city": "Nakuru",
+        "country": "Kenya",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "Lake Nakuru National Park",
+        "coordinates": {
+            "longitude": 36.092300,
+            "latitude": -0.405500
+        },
+        "description": "Kenya’s Lake Nakuru National Park was set up in 1960 to protect the bird-life in the plains and hills surrounding the lake and the huge numbers of flamingos that were to be seen along the lake shore in those days.  Its accessibility and close proximity to Nairobi (only 140 km by road) makes it one of the most frequented National Parks – popular with Kenyans and foreign tourists alike. The park’s relatively small size (188 sq km) allows you drive around the entire park in half a day and although you will need to remain in a vehicle there are designated picnic and camping sites at which stops can be made.",
+        "imageName": "lakenakuru"
+    },
+    {
+        "name": "Mt. Kenya National Park",
+        "category": "Mountains",
+        "city": "Central Kenya",
+        "country": "Kenya",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "Mt. Kenya National Park",
+        "coordinates": {
+            "longitude": 37.328938,
+            "latitude": -0.122158
+        },
+        "description": "Climbing to 5,199 meters, Mount Kenya is the second tallest mountain in Africa. The scenery surrounding this designated World Heritage Site is breath-taking. It is pristine wilderness with lakes, tarns, glaciers, dense forest, mineral springs and a selection of rare and endangered species of animals, high altitude adapted plains game and unique montane and alpine vegetation. Visitors can enjoy mountain climbing, camping and caving with the mountain’s rugged glacier-clad peaks providing the perfect backdrop.",
+        "imageName": "mtkenya"
+    },
+    {
+        "name": "Tsavo National Park",
+        "category": "Parks",
+        "city": "Taita Taveta",
+        "country": "Kenya",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "site": "Tsavo National Park",
+        "coordinates": {
+            "longitude": 37.911115,
+            "latitude": -2.964427
+        },
+        "description": "Tsavo National Park is vast. Put together, the western and eastern areas of Tsavo make up one of the largest animal sanctuaries in the world – imagine the whole of Wales being a park. Tsavo East became renowned, or perhaps more correctly, infamous in the early 20th century, as the home of man-eating lions which treated the railway workers building the Mombasa to Kampala line as a new food source. Tsavo was also the setting in the First World War of battles between British and German troops vying for supremacy in East Africa. Tsavo is old, in that is one of Kenya’s longest established parks and yet at the same time young, because the Ngulia Hills that dominate the area are of comparatively recent volcanic origin.",
+        "imageName": "tsavo"
+    },
+    {
+        "name": "Amboseli National Park",
+        "category": "Parks",
+        "city": "Southern Kenya",
+        "country": "Kenya",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "Amboseli National Park",
+        "coordinates": {
+            "longitude": 37.260767,
+            "latitude": -2.652016
+        },
+        "description": "The location of Amboseli National Park makes it a huge attraction for inclusion in a Kenya safari holiday. The whole park is overlooked by the world famous views of Mount Kilimanjaro. Kilimanjaro is undoubtedly best seen at dusk or dawn when low hanging clouds thin out to reveal the iced summit of this continent’s highest mountain.",
+        "imageName": "amboseli"
+    },
+    {
+        "name": "Fort Jesus",
+        "category": "Museum",
+        "city": "Mombasa",
+        "country": "Kenya",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "Fort Jesus",
+        "coordinates": {
+            "longitude": 39.679806,
+            "latitude":  -4.062846
+            
+        },
+        "description": "The Fort, built by the Portuguese in 1593-1596 to the designs of Giovanni Battista Cairati to protect the port of Mombasa, is one of the most outstanding and well preserved examples of 16th Portuguese military fortification and a landmark in the history of this type of construction. The Fort's layout and form reflected the Renaissance ideal that perfect proportions and geometric harmony are to be found in the human body. The property covers an area of 2.36 hectares and includes the fort's moat and immediate surroundings.",
+        "imageName": "fortjesus"
+    },
+    {
+        "name": "Mnarani Ruins",
+        "category": "Ruins",
+        "city": "Kilifi",
+        "country": "Kenya",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "Mnarani Ruins",
+        "coordinates": {
+            "longitude": 39.845770,
+            "latitude": -3.642700
+        },
+        "description": "The Mnarani ruins are the remains of two mosques near Mnarani in Kilifi County, Kenya. Dating from the 15th century, the mosques are located on a bluff overlooking Kilifi Creek from the southern side. The settlement at the site dates back to the 14th century, and the site also contains a number of tombs. ",
+        "imageName": "mnarani"
+    },
+    {
+        "name": "GTC Tower",
+        "category": "Buildings",
+        "city": "Nairobi",
+        "country": "Kenya",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "GTC Tower",
+        "coordinates": {
+            "longitude": 36.809021,
+            "latitude": -1.270827
+        },
+        "description": "The GTC Office Tower is the tallest office tower in East Africa. A majestic 184m peak experience",
+        "imageName": "gtc"
+    },
+    {
+        "name": "Nairobi National Museum",
+        "category": "Museum",
+        "city": "Nairobi",
+        "country": "Kenya",
+        "id": 1012,
+        "isFeatured": true,
+        "isFavorite": false,
+        "site": "Nairobi National Museum",
+        "coordinates": {
+            "longitude": 36.814902,
+            "latitude": -1.273904
+        },
+        "description": "The Museum was initiated in 1910 by a group of enthusiastic naturalists under the then East Africa and Uganda Natural History Society [currently the East African Natural History Society (EANHS)], who needed a place to keep and preserve their collections of various specimens. The first site for the Museum was at the present Nyayo House, which later became too small and a larger building was put up in 1922 where the Nairobi Serena Hotel stands today. In 1929, the colonial government set aside land for a Museum construction at Museum Hill which was officially opened in 22nd September, 1930 and named Coryndon Museum in honour of Sir Robert Coryndon, one-time Governor of Kenya. In 1963 after independence, it was re-named the National Museum of Kenya (NMK). On October 15th 2005, the Nairobi Museum closed its doors to the public for an extensive modernization and expansion project the outcome of which was an impressive and magnificent piece of architecture that puts it in competition with other world- class Museums. The Museum later re-opened in June 2008 as the Nairobi National Museum, and continues to draw visitors from all walks of life in appreciation of Kenya’s rich heritage.",
+        "imageName": "nairobi museum"
+    },
+    {
+        "name": "Kiunga Marine National Reserve",
+        "category": "Parks",
+        "city": "Kiwayu",
+        "country": "Kenya",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "Kiunga Marine National Reserve",
+        "coordinates": {
+            "longitude": 41.2891,
+            "latitude": -1.9777
+        },
+        "description": "An Enchanted underwater World. Further north along Kenya’s spectacular Indian Ocean coast is the Kiunga Marine National Reserve. This pristine ecosystem incorporates a chain of about 50 calcareous offshore islands and coral reefs in the Lamu Archipelago. Visitors can view the teeming sea life in the coral reefs, sea grass and extensive mangrove forests which are a refuge for sea turtles and dugongs. The reserve provides ideal opportunities for wind surfing, diving and snorkelling, water skiing and sunbathing.",
+        "imageName": "kiunga"
+
+    },
+    {
+        "name": "Gede Ruins",
+        "category": "Ruins",
+        "city": "Gede",
+        "country": "Kenya",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "Gede Museum",
+        "coordinates": {
+            "longitude": 40.016430,
+            "latitude": -3.309701
+        },
+        "description": "Gede ruins are the remains of a Swahili town, typical of most towns along the East African Coast. It traces its origin in the twelfth century but was rebuilt with new town walls in the fifteenth and sixteenth centuries. Gede is located in coast province, Kilifi district. It lies 16 km south of Malindi town and approximately 90 km North East of Mombasa. This rebuilding is connected with the emigration of many citizens of Kilwa to Mombasa, Malindi and other places along the coast. With its numerous inhabitants, the town became wealthy and it reached its peak in the fifteenth century. This enormous wealth is evidenced by the presence of numerous ruins, comprising of a conglomeration of mosques; a magnificent palace and houses all nestled in 45 acres of primeval forest.",
+        "imageName": "gede"
+
+    },
+    {
+        "name": "Mt. Elgon National Park",
+        "category": "Mountains",
+        "city": "Mt. Elgon",
+        "country": "Kenya",
+        "id": 1015,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "Mt. Elgon National Park",
+        "coordinates": {
+            "longitude": 34.526114,
+            "latitude": 1.119335
+        },
+        "description": "Untamed Wilderness, Secluded Splendor. High in the mist-wreathed hills of western Kenya is a towering volcanic giant, crowned by a vast caldera etched by glacial tarns, honeycombed by labyrinthine caves, fissured by valleys and cascaded by streams. Visitors can explore the forest, see the elephant caves and also enjoy biking, hiking, and rock on the eighth highest mountain in Africa, Mount Elgon.",
+        "imageName": "elgon"
+    },
+    {
+        "name": "Lake Turkana",
+        "category": "Lakes",
+        "city": "Turkana",
+        "country": "Kenya",
+        "id": 1016,
+        "isFeatured": false,
+        "isFavorite": false,
+        "site": "Lake Turkana",
+        "coordinates": {
+            "longitude": 36.083390,
+            "latitude": 3.486410
+        },
+        "description": "Lake Turkana in Kenya, also known as The Jade Sea, is famous for its greenish-blue colours and notorious strong desert winds. Lake Turkana also known as the Jade Sea, was originally named Lake Rudolph in 1888 and was renamed Lake Turkana in 1975. Lake Turkana is famous for it's greenish-blue colours, hence the nickname the Jade Sea. It is the largest alkaline lake in the world. Lake Turkana is 300 Km long and 50 Km wide, which also makes it the largest lake in Kenya (although, Lake Victoria which is shared with Kenya, Tanzania and Uganda is larger). It is also the world's largest permanent desert lake. The water is potable, but not very palatable. Three rivers feed into the lake but there is no out flow, all water loss is via evaporation.",
+        "imageName": "turkana"
+    }
+    
+]
